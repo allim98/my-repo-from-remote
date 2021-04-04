@@ -1,0 +1,28 @@
+.jumbotron {
+	padding-top: 6rem;
+	background-color: #b3ffe0;
+}
+
+#project {
+	background-color: #b3ffe0;
+}
+
+#project img{
+	background-size: cover;
+	background-image: cover;
+	object-fit: cover;
+	height: 400px;
+}
+
+footer {
+	background-color: #1affa3;
+	color: white;
+}
+
+footer a {
+	color: white;
+}
+
+section {
+	padding-top: 5rem;
+}
